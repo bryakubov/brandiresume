@@ -33,17 +33,17 @@
                 <h2>Office Skills</h2>
                 <p>Customer Service, Content Creation, Organization
                 <h2>Computer skills</h2>
-                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows, Website Building
+                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
         </dl>
         <dl>
             <dt>Experience
             <dd>
-                <h2>Teacher<span>Carmel 2017 – present</span></h2>
+                <h2>Teacher <span> Carmel 2017 – present</span></h2>
                 <ul>
                     <li>Adaptability, Patience, Time Management, Leadership
                     <li>Creativity and Collaboration with Peers
                 </ul>
-                <h2>Indiana University<span>Online Student 2019 –  2025</span></h2>
+                <h2>Indiana University <span> Online Student 2019 –  2025</span></h2>
                 <ul>
                     <li>Used Windows, Microsoft, and Mac to navigate and complete Associate and Bachelor Degrees
                     <Ii>Excelled in online work such as meetings (ie. Zoom), TrackChanges, collaboration, PowerPoint, Canvas, WordPress
@@ -56,12 +56,7 @@
         <dl>
             <dt>Hobbies
             <dd>Yoga, Cooking, Cleaning, Reading, Walking, Spinning, Arts and Crafts with my kids, going to the Art Museum
-        </dl>
-        <dl>
             <dt>References
-            <dd>Available on request
-        </dl>
-    </div>
-</body>
+            <dd>Available on request </dl>
 
 </html>
