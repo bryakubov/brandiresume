@@ -48,9 +48,7 @@
                     <li>Used Windows, Microsoft, and Mac to navigate and complete Associate and Bachelor Degrees
                     <Ii>Excelled in online work such as meetings (ie. Zoom), TrackChanges, collaboration, PowerPoint, Canvas, WordPress
 
-                     <Ii>Honors Program GPA 3.8
-
-                </ul>
+                    <Ii>Honors Program GPA 3.5
             </dd>
         </dl>
         <dl>
