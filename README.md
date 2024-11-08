@@ -17,7 +17,7 @@
         <h1>Brandi Yakubov</h1>
         <p>Cell: <a href=#>317-779-5331</a>
         <p>Web: <a href=#>byakubov.wordpress.com</a>
-        <p>Email: <a href=#>nbrandimarie72@outlook.com</a>
+        <p>Email: <a href=#>brandimarie72@outlook.com</a>
         <p id="objective">I am a recent graduate from Indiana University with a degree in English, specialized in technical and professional writing.
         <dl>
             <dt>Education
